@@ -1,0 +1,117 @@
+[
+  {
+    "day": "Monday",
+    "Type1": {
+      "quantity": 100,
+      "unit_price": 5
+    },
+    "Type2": {
+      "quantity": 150,
+      "unit_price": 7
+    },
+    "Type3": {
+      "quantity": 200,
+      "unit_price": 10
+    },
+    "Type4": {
+      "quantity": 120,
+      "unit_price": 8
+    },
+    "Type5": {
+      "quantity": 180,
+      "unit_price": 6
+    }
+  },
+  {
+    "day": "Tuesday",
+    "Type1": {
+      "quantity": 80,
+      "unit_price": 5
+    },
+    "Type2": {
+      "quantity": 120,
+      "unit_price": 7
+    },
+    "Type3": {
+      "quantity": 180,
+      "unit_price": 10
+    },
+    "Type4": {
+      "quantity": 90,
+      "unit_price": 8
+    },
+    "Type5": {
+      "quantity": 150,
+      "unit_price": 6
+    }
+  },
+  {
+    "day": "Wednesday",
+    "Type1": {
+      "quantity": 110,
+      "unit_price": 6
+    },
+    "Type2": {
+      "quantity": 160,
+      "unit_price": 8
+    },
+    "Type3": {
+      "quantity": 220,
+      "unit_price": 12
+    },
+    "Type4": {
+      "quantity": 130,
+      "unit_price": 9
+    },
+    "Type5": {
+      "quantity": 190,
+      "unit_price": 7
+    }
+  },
+  {
+    "day": "Thursday",
+    "Type1": {
+      "quantity": 90,
+      "unit_price": 4
+    },
+    "Type2": {
+      "quantity": 130,
+      "unit_price": 6
+    },
+    "Type3": {
+      "quantity": 170,
+      "unit_price": 9
+    },
+    "Type4": {
+      "quantity": 100,
+      "unit_price": 7
+    },
+    "Type5": {
+      "quantity": 160,
+      "unit_price": 5
+    }
+  },
+  {
+    "day": "Friday",
+    "Type1": {
+      "quantity": 120,
+      "unit_price": 5
+    },
+    "Type2": {
+      "quantity": 170,
+      "unit_price": 7
+    },
+    "Type3": {
+      "quantity": 210,
+      "unit_price": 11
+    },
+    "Type4": {
+      "quantity": 140,
+      "unit_price": 8
+    },
+    "Type5": {
+      "quantity": 200,
+      "unit_price": 6
+    }
+  }
+]
